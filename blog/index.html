@@ -90,16 +90,15 @@
             </div>
         </div>
 
-        <div class="contact-form span7">
-
+        <div>
             {% for post in site.posts %}
                <li>
   	              <time datetime = "{{ post.date | date: "%Y-%m-%d"}}">{{ post.date | date_to_string }}</time>
   	              <a href="{{ site.baseurl }}{{ post.url}}">{{ post.title }}</a>
                </li>
-
             {% endfor %}
         </div>
+  
 
 
      <!-- Footer -->
