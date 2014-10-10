@@ -190,3 +190,15 @@ code {
 
   #posts time { display: block; }
 }
+
+
+/* andy's blog css*/
+
+#andy {
+  line-height:14px;
+  list-style:none;
+  font-size:14px;
+  text-align:left;
+  !important;
+  
+}
