@@ -14,3 +14,14 @@ comments: true
 
 
 url:         http://webgu.github.io
+
+
+links:
+
+  - title: Articles
+    url: /articles/
+  - title: Blog
+    url: /blog/
+  - title: Category
+    url: /category/
+
