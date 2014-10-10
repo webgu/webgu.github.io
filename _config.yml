@@ -13,4 +13,4 @@ excerpt_separator: ""
 comments: true
 
 
-url:         http://webgu.github.io
+baseurl:         http://webgu.github.io
